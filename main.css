@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(44, 37, 37);
+    
     color: aliceblue;
+    background-image: url('/image/computer.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
